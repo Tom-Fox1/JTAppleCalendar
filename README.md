@@ -17,7 +17,6 @@
 
 
 ## Features
----
 
 - [x] Range selection - select dates in a range. The design is entirely up to you.
 - [x] Boundary dates - limit the calendar date range
@@ -57,7 +56,6 @@ Tutorials
    
 
 ## Installation
-___
 
 ### 1. Installing via CocoaPods
 
